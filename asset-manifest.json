@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/selviser-franchise/static/css/main.e6c13ad2.css",
+    "main.js": "/selviser-franchise/static/js/main.bf27b265.js",
+    "index.html": "/selviser-franchise/index.html",
+    "main.e6c13ad2.css.map": "/selviser-franchise/static/css/main.e6c13ad2.css.map",
+    "main.bf27b265.js.map": "/selviser-franchise/static/js/main.bf27b265.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.bf27b265.js"
+  ]
+}
